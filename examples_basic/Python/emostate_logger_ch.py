@@ -1,4 +1,4 @@
-# Modified from emostate_logger.py
+# Original file: emostate_logger.py
 # Now it saves the .csv result with the title of current system time.
 # For example, "data-2017-02-23-18-43-48.csv".
 
